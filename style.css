@@ -1,7 +1,7 @@
 body
 {
   color: white;
-  background: linear-gradient(#61e2ff 0%, #ffffa3 100%);
+  background: linear-gradient(#000000 0%, #4f5257 100%);
 }
 span
 {
@@ -9,13 +9,13 @@ span
 }
 #camera , #result
 {
-  border: 2px dashed black;
+  border: 2px dashed rgb(255, 255, 255);
   width: 350px;
   height: 300px; 
 }
 #result_emotion_name ,#result_emotion_name2  
 {
-  color: black;
+  color: rgb(255, 255, 255);
 }
 .emotion_name
 {
